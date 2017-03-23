@@ -1,6 +1,8 @@
 # 什麼是硬連結 什麼是軟連結
 ![圖表解釋](https://i.stack.imgur.com/f7Ijz.jpg)
 
+reference link: [ubuntuAsk](http://askubuntu.com/questions/108771/what-is-the-difference-between-a-hard-link-and-a-symbolic-link)
+
 > 透過實際案例直接了解，應該比長篇大論的說明更有效吧
 
 在Linux底下創建兩個檔案  
